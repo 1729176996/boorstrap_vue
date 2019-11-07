@@ -5,7 +5,7 @@ $(function() {
     vm = new Vue({
         el : '#main',
         data : {
-            test:'ggg'
+            img:'images/test.jpg'
         },
         mounted : function() {
             
